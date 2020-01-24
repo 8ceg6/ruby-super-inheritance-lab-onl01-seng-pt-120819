@@ -1,5 +1,5 @@
 require_relative "../lib/student.rb"
-tudent.rb"require_relative "../lib/chatty_s
+require_relative "../lib/chatty_student.rb"
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
